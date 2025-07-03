@@ -1,0 +1,11 @@
+# OS / Editor files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Logs or temporary files
+*.log
+*.tmp
+*.swp
