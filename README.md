@@ -28,7 +28,9 @@ This is a browser-based Tic Tac Toe (X/O) game built using **HTML**, **CSS**, an
 TicTacToe/
 
 ├── index.html
+
 ├── styles.css
+
 └── script.js
 
 ---
